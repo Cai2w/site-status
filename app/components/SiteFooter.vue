@@ -32,7 +32,7 @@
       </n-p>
       <n-p depth="3">
         Copyright &copy; 2022 - {{ new Date().getFullYear() }}
-        <n-text depth="3" @click="jumpLink(linkData.home)"> 王菜菜 </n-text>
+        <n-text depth="3" @click="jumpLink(linkData.home)"> Kiro </n-text>
         <n-text
           v-if="siteIcp"
           depth="3"
